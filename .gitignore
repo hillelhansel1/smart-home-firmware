@@ -1,0 +1,19 @@
+# Compiled files
+*.exe
+*.o
+*.obj
+*.elf
+*.bin
+
+# PlatformIO build
+.pio/
+
+# Visual Studio Code local settings
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
